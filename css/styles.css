@@ -8,3 +8,8 @@ h2{
 body{
     background-color: whitesmoke;
 }
+.intro{
+    font-style: italic;
+}
+.author{
+    color: green;
