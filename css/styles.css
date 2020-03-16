@@ -20,3 +20,11 @@ body{
 img{
     float: right;
 }
+.test-box{
+    background-color: aquamarine;
+    width: 700px;
+    border: 15px solid brown;
+    padding: 50px;
+    margin: 20px;
+
+}
