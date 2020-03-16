@@ -16,3 +16,7 @@ body{
 }
 .author{
     color: green;
+}
+img{
+    float: right;
+}
