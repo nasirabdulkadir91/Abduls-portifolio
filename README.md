@@ -1,6 +1,6 @@
 
 # {Abduls-portfolio}
-#### {a portfolio about Abdinasir}, {Date of current version}
+#### {a portfolio about Abdinasir}, 
 #### By **{nasirabdulkadir91}**
 ## Description
 {this is an portfolio about me the jobs i have been to and my hobbies.}
@@ -9,5 +9,5 @@
 ## Technologies Used
 {Used HTML and CSS styles to style my portfolio}
 ### License
-*{mit license.}*
+*{MIT LICENSE.}*
 Copyright (c) {2020} **{nasirabdulkadir91}**
